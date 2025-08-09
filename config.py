@@ -1,0 +1,22 @@
+class Config:
+    STATE_SIZE = 4
+    ACTION_SIZE = 2
+    HIDDEN_SIZE = 128
+
+    LEARNING_RATE = 5e-4
+    BATCH_SIZE = 64
+    GAMMA = 0.99
+
+    EPSILON_START = 1.0
+    EPSILON_END = 0.01
+    EPSILON_DECAY = 0.995
+
+    NUM_EPISODES = 1500
+    MAX_STEPS = 500
+
+    MEMORY_SIZE = 10000
+    TARGET_UPDATE = 100
+
+    RENDER_MODE = None
+    RANDOM_SEED = 42
+    SAVE_MODEL = True
