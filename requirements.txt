@@ -1,0 +1,14 @@
+# CartPole DQN from Scratch - Dependencies
+# Core deep learning and reinforcement learning
+torch>=2.0.0
+gymnasium>=0.29.0
+
+# Scientific computing and visualization
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Optional development dependencies
+# pytest>=7.0.0          # For testing
+# tensorboard>=2.10.0     # For advanced logging
+# black>=22.0.0           # For code formatting
+# flake8>=5.0.0          # For linting
