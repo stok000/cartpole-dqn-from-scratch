@@ -256,7 +256,7 @@ matplotlib>=3.5.0
 ## 🖊️ Authors
 
 **Lead Developer**
-- **Iterrius** - [itertius](https://github.com/itertius) @ [iterrius_te](https://www.instagram.com/iterrius_te/)
+- **Witsanupong Kolakul** - [itertius](https://github.com/itertius) @ [iterrius_te](https://www.instagram.com/iterrius_te/)
   - Project Architecture & Implementation
   - Deep Q-Learning Algorithm Development
   - Real-time Visualization System
